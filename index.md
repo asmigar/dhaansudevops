@@ -6,13 +6,8 @@ layout: home
 ---
 **About Us**
 
-We had to open this firm because `According to Section 24 of the Central GST Act, an individual who earns an income from outside the country or the state, is liable to get themselves registered with GST and no threshold limit is applicable.`
+We had to open this firm because `There is huge shortage of DevOps Professionals`
 
-**So will I keep on continuing this?**
-
-I started in compulsion, Now:
-
-![]({{ "/assets/giphy.gif" | relative_url }}){:height="150px" width="px" border="3px"}
 
 **Next Plans?**
 
