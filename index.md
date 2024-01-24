@@ -11,6 +11,6 @@ We had to open this firm because `There is huge shortage of DevOps Professionals
 
 **Next Plans?**
 
-![]({{ "/assets/sochenge.gif" | relative_url }}){:height="150px" width="px" border="3px"}
+![]({{ "/assets/sochenge.gif" | relative_url }}){:height="200px" width="px" border="3px"}
 
 
