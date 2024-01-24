@@ -1,0 +1,7 @@
+theme: minima
+title: DhaansuDevOps
+description: Systumm Faad Denge
+url: "https://dhaansudevops.com"
+exclude:
+  - README.md
+
