@@ -6,7 +6,7 @@ layout: home
 ---
 **About Us**
 
-We had to open this firm because `There is huge shortage of DevOps Professionals. So we are here to teach you kickstart your devops journey. We will be there for you always.`
+We had to open this platform because `There is huge shortage of DevOps Professionals. So we are here to teach you devops. We will be there for you always during your devops journey.`
 
 **What are we going to do**
 
