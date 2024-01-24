@@ -6,7 +6,7 @@ layout: home
 ---
 **About Us**
 
-We had to open this platform because `There is huge shortage of DevOps Professionals. So we are here to teach you devops. We will be there for you always during your devops journey.`
+We had to open this platform because `There is huge shortage of DevOps Professionals. So we are here to teach you devops. We will be always there for you during your devops journey.`
 
 **What are we going to do**
 
