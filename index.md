@@ -4,9 +4,6 @@
 
 layout: home
 ---
-
-![]({{ "/assets/logo.jpeg" | relative_url }}){:height="200px" width="px" border="3px"}
-
 **About Us**
 
 We had to open this platform because `There is huge shortage of DevOps Professionals. So we are here to teach you devops. We will always be there for you during your devops journey.`
