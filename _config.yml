@@ -2,6 +2,10 @@ theme: minima
 title: धाँसू DevOps
 description: Systumm Faad Denge
 url: "https://dhaansudevops.com"
+# social links
+youtube_channel: dhaansudevops
+instagram_username: dhaansudevops
+
 exclude:
   - README.md
   - vendor/
