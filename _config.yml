@@ -7,7 +7,7 @@ url: "https://dhaansudevops.com"
 # social links
 youtube_channel: dhaansudevops
 instagram_username: dhaansudevops
-footer: 'follow us on <a href="https://www.linkedin.com/company/-devops/">Linkedin</a>'
+footer: 'follow us on <a href="https://www.linkedin.com/company/-devops/">linkedin</a>'
 
 exclude:
   - README.md
