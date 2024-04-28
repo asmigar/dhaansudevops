@@ -1,13 +1,14 @@
 remote_theme: b2a3e8/jekyll-theme-console
 style: hacker
 
-title: धाँसू DevOps
-description: Systumm Faad Denge
 url: "https://dhaansudevops.com"
 # social links
-youtube_channel: dhaansudevops
-instagram_username: dhaansudevops
 footer: 'follow us on <a href="https://www.linkedin.com/company/-devops/">linkedin</a>'
+header_pages:
+  - index.md
+  - register.md
+  - about.md
+
 
 exclude:
   - README.md
