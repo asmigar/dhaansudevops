@@ -1,6 +1,6 @@
 theme: jekyll-theme-console
 style: hacker
-
+remote_theme: b2a3e8/jekyll-theme-console
 
 title: धाँसू DevOps
 description: Systumm Faad Denge
