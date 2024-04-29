@@ -3,5 +3,6 @@ title: /about
 layout: page
 permalink: /about
 ---
-# About Us
-We had to open this platform because: There is huge shortage of DevOps Professionals. So we are here to teach you devops. We will always be there for you during your devops journey.
+# About
+A software delivery expert with 8 years of experience in DevOps and 2 years in App Development. Worked with companies of all sizes, ranging from startups(~50 people) to large enterprises(~10k people), in both service-based and product-based industries. Current tech stack includes AWS/GCP, Terraform, Kubernetes.
+
