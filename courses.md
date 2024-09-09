@@ -3,7 +3,7 @@ title: /courses
 layout: page
 permalink: /courses
 ---
-# [3 day Docker Workshop](https://forms.gle/vuJGs1WpVni6jVLo9)
+# [Weekend Docker Workshop](https://forms.gle/vuJGs1WpVni6jVLo9)
 ---
 # [Terraform in Twenty Hours](https://forms.gle/vuJGs1WpVni6jVLo9)
 ---
