@@ -1,12 +1,13 @@
 remote_theme: b2a3e8/jekyll-theme-console
 style: hacker
-
+repository: asmigar/dhaansudevops 
 url: "https://dhaansudevops.com"
 # social links
 footer: > 
-  follow us on <a href="https://www.linkedin.com/company/-devops/">LinkedIn</a>
+  <a href="https://www.linkedin.com/company/-devops/">LinkedIn</a>
   | <a href="https://youtube.com/@dhaansudevops">YouTube</a>
   | <a href="https://whatsapp.com/channel/0029VaXVTkGFnSzFjyX9oA1F">WhatsApp</a>
+  | <a href="https://www.instagram.com/dhaansudevops/">Instagram</a>
 
 header_pages:
   - index.md
