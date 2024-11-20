@@ -1,2 +1,1 @@
-# asmigar
-Github Page for https://asmigar.com
+https://asmigar.com
