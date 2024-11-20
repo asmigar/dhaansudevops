@@ -16,11 +16,7 @@ header_pages:
   - courses.md
 
 # Analytics
-analytics:
-  provider               : "google-gtag"
-  google:
-    tracking_id          : "G-CZ8KY9FV3J"
-    anonymize_ip         : false
+google_analytics: "G-CZ8KY9FV3J"
 
 exclude:
   - README.md
