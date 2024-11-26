@@ -13,7 +13,6 @@ header_pages:
   - index.md
   - register.md
   - about.md
-  - courses.md
 
 include:
   - _programs

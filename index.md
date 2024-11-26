@@ -12,11 +12,11 @@ Welcome to our comprehensive DevOps and Cloud courses where we delve into the de
 # Our Programs
 # <[Weekend Docker Workshop]({{ '/_programs/weekend_docker_workshop' | relative_url }} )>
 
-# <[Terraform in Twenty Hours](https://forms.gle/vuJGs1WpVni6jVLo9)>
+# <[Terraform in Twenty Hours]({{ '/_programs/terraform_in_twenty_hours' | relative_url }})>
 
-# <[Basic DevOps - 40 hours](https://forms.gle/vuJGs1WpVni6jVLo9)>
+# <[Basic DevOps - 40 hours]({{ '/_programs/basic_devops' | relative_url }})>
  
-# <[Upcoming free live webinars](https://forms.gle/vuJGs1WpVni6jVLo9)>
+# <[Docker/Kuberenetes Workshop]({{ '/_programs/docker_kubernetes_workshop' | relative_url }})>
 ---
 
 Our approach emphasizes live and interactive sessions, fostering engagement and facilitating real-time learning. With a keen focus on fundamentals, we guide our learners towards mastering the core principles of DevOps and Cloud technologies. Moreover, our curriculum extends beyond mere instruction, providing valuable career guidance and interview preparation to empower our attendees professionally. Through exposure to real projects, participants gain practical experience, while also staying ahead of the curve with the latest cutting-edge tools in the DevOps landscape.
