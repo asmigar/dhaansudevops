@@ -15,8 +15,14 @@ header_pages:
   - about.md
   - courses.md
 
-# Analytics
+include:
+  - _programs
+
+  # Analytics
 google_analytics: "G-CZ8KY9FV3J"
+
+plugins:
+  - jemoji
 
 exclude:
   - README.md
