@@ -34,5 +34,6 @@ layout: post
 - Terraform Refresh
 - Terraform Meta-arguments
 - Terraform Provisioners
- 
 
+---
+[[Register]({{ '/register' | relative.url }})]

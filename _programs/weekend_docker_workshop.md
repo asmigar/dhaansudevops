@@ -28,4 +28,5 @@ layout: post
 - Next steps
 - Ask me Anything
 
-
+---
+[[Register]({{ '/register' | relative.url }})]

@@ -39,4 +39,6 @@ Kubernetes
 > - FluxCD
 > - Security: best practices around Kubernetes
 
+---
+[[Register]({{ '/register' | relative.url }})]
 

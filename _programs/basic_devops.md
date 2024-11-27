@@ -27,3 +27,6 @@ layout: post
 - Testing: Unit Tests, Integration Tests, Automation Tests
 - CI/CD: Jenkins, GitHub Actions, Gitlab CI 
 
+---
+[[Register]({{ '/register' | relative.url }})]
+
