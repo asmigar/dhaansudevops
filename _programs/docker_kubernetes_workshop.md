@@ -40,5 +40,5 @@ Kubernetes
 > - Security: best practices around Kubernetes
 
 ---
-[[Register]({{ '/register' | relative.url }})]
+[[Register]({{ '/register' | relative_url }})]
 

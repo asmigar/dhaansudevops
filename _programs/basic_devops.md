@@ -28,5 +28,5 @@ layout: post
 - CI/CD: Jenkins, GitHub Actions, Gitlab CI 
 
 ---
-[[Register]({{ '/register' | relative.url }})]
+[[Register]({{ '/register' | relative_url }})]
 

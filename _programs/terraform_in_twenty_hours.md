@@ -36,4 +36,4 @@ layout: post
 - Terraform Provisioners
 
 ---
-[[Register]({{ '/register' | relative.url }})]
+[[Register]({{ '/register' | relative_url }})]
