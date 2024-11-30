@@ -3,13 +3,14 @@ title: /register
 layout: page
 permalink: /register
 ---
-
+https://docs.google.com/forms/d/e/1FAIpQLSe6TcoU3ZkKSLBGrJIFnoTscq_1zRMvZMLTwDJnX1CNMEcpxw/viewform?usp=pp_url&entry.393744508=https://sdfsdfsdf.com
 # Register
 
 <form action="https://docs.google.com/forms/d/e/1FAIpQLSe6TcoU3ZkKSLBGrJIFnoTscq_1zRMvZMLTwDJnX1CNMEcpxw/formResponse">
   <input type="text" id="first_name" name="entry.1030301777" placeholder="first name:" autocomplete="off" required>
   <input type="text" id="last_name" name="entry.355079630" placeholder="last name:" autocomplete="off" required>
-  <input type="text" id="email" name="entry.1753516314" placeholder="email:" autocomplete="off" required>
+  <input type="text" id="linkedin_profile" name="entry.393744508" placeholder="LinkedIn profile:" autocomplete="off" required>
+  <input type="email" id="email" name="entry.1753516314" placeholder="email:" autocomplete="off" required>
   <input type="text" id="number" name="entry.1449029163" placeholder="number:" autocomplete="off" required>
 <label for="course">Choose a course:</label>
 <select name="entry.203366767" id="course" required>
