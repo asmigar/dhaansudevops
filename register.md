@@ -3,7 +3,7 @@ title: /register
 layout: page
 permalink: /register
 ---
-https://docs.google.com/forms/d/e/1FAIpQLSe6TcoU3ZkKSLBGrJIFnoTscq_1zRMvZMLTwDJnX1CNMEcpxw/viewform?usp=pp_url&entry.393744508=https://sdfsdfsdf.com
+
 # Register
 
 <form action="https://docs.google.com/forms/d/e/1FAIpQLSe6TcoU3ZkKSLBGrJIFnoTscq_1zRMvZMLTwDJnX1CNMEcpxw/formResponse">
