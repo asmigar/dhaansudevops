@@ -24,5 +24,6 @@ layout: post
 - Github Pull Requests/GitLab Merge Requests
 - GitHub Actions/Releases/Tags
 - GitLab CI
+
 ---
 [[Register]({{ '/register' | relative_url }})]
