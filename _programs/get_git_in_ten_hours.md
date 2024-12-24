@@ -14,7 +14,15 @@ layout: post
 
 ---
 # Topics Covered:
-- (To be announced on Christmas...)
-
+- Version Control 
+- What is git?
+- Git basics
+- Git Branching
+- Branching Workflows
+- GitHub/GitLab repositories
+- Git hooks
+- Github Pull Requests/GitLab Merge Requests
+- GitHub Actions/Releases/Tags
+- GitLab CI
 ---
 [[Register]({{ '/register' | relative_url }})]
