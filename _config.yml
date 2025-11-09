@@ -14,10 +14,10 @@ header_pages:
   - register.md
   - about.md
 
-include:
-  - _programs
-
-  # Analytics
+collections:
+  programs:
+    output: true
+# Analytics
 google_analytics: "G-CZ8KY9FV3J"
 
 plugins:
