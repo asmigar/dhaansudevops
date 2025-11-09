@@ -1,5 +1,5 @@
 ---
-title: Docker | Kubernetes Workshop
+title: Docker Kubernetes Workshop
 layout: post
 ---
 
